@@ -4,4 +4,4 @@ This is 3d graphics engine. It uses raymarching and can draw some interensing sh
 ![Screenshot](https://github.com/jansenin/RMGraphicsEngine/blob/master/generated/all%20useful/mandelbulb/image1.png?raw=true)
 ![Screenshot](https://github.com/jansenin/RMGraphicsEngine/blob/master/generated/all%20useful/squares/image11.png?raw=true)
 
-and more examples in [generated/all%20useful](https://github.com/jansenin/RMGraphicsEngine/generated/all%20useful)
+and more examples in [generated/all useful](https://github.com/jansenin/RMGraphicsEngine/tree/master/generated/all%20useful)
